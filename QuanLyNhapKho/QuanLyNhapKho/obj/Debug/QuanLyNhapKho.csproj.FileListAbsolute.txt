@@ -1,0 +1,79 @@
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fBaoCao.resources
+C:\Users\ADMIN\OneDrive - The Danang University of Economics (1)\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fBaoCao.resources
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\KimAnh\Desktop\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fBaoCao.resources
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\KimAnh\Desktop\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fThongKeNhapKho.resources
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\rptThongKeNhapKho.rdlc
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\rptThongKeNhapKho.rdlc
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fLogin.resources
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fThongKeNhapKho.resources
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.cache
+C:\Users\KimAnh\Downloads\PROJECT 1\Bản chính 1\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe.config
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\rptThongKeNhapKho.rdlc
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.exe
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\bin\Debug\QuanLyNhapKho.pdb
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fLogin.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fQuanLyKho.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fThongKeNhapKho.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.PhieuNK.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.cache
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\RdlCompile.compiled
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fAccountInfo.resources
+C:\Users\ADMIN\Downloads\PROJECT\Bản chính\QuanLyNhapKho\QuanLyNhapKho\obj\Debug\QuanLyNhapKho.fCapNhatPNK.resources
